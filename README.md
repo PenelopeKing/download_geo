@@ -11,7 +11,7 @@ You can use this on Binder: https://mybinder.org/v2/gh/PenelopeKing/download_geo
 ## How to Use on `download_geo_binder.ipynb`
 
 ##### Step 1:
-Get GSE code.
+Get GSE code via [GEO](https://www.ncbi.nlm.nih.gov/geo/)
 
 ##### Step 2:
 Download a CSV containing GSE's metadata obtained from Step 1.
