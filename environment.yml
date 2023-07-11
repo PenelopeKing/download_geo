@@ -1,0 +1,13 @@
+name: geo-environment
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - traitlets
+  - geofetch
+  - pysradb
+  - IPython
+  - ipywidgets
+  - sra-tools
