@@ -2,7 +2,7 @@
 
 Tool to download data from Gene Expression Omnibus (GEO). 
 
-Using just the GSE code (GSE#), you are able to download FASTQ files and supplementary files (peaks, txt, etc).
+Using a GSE code (GSE#), you are able to download its FASTQ files and supplementary files (peaks, txt, etc).
 
 You can use this on Binder: https://mybinder.org/v2/gh/PenelopeKing/download_geo/main?labpath=download_geo_binder.ipynb
 
@@ -11,13 +11,13 @@ You can use this on Binder: https://mybinder.org/v2/gh/PenelopeKing/download_geo
 ## How to Use on `download_geo_binder.ipynb`
 
 ##### Step 1:
-Get GSE code via [GEO](https://www.ncbi.nlm.nih.gov/geo/)
+Get GSE code via [GEO](https://www.ncbi.nlm.nih.gov/geo/).
 
 ##### Step 2:
-Download a CSV containing GSE's metadata obtained from Step 1.
+Download a CSV containing GSE's metadata using the GSE code.
 
 ```
-preview_data_visual()
+preview_data_visual(gse)
 ```
 
 #### Step 3:
