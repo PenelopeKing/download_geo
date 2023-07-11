@@ -3,7 +3,7 @@ numpy
 traitlets
 geofetch
 pysradb
-urllib.request
+urllib
 IPython
 ipywidgets
 sra-tools==3.0.6
