@@ -28,7 +28,7 @@ display_csv(csv_path)
 ```
 
 ##### Step 4:
-Browse and select the files you wish to download using the path to the csv and the column want to search by
+Browse and select the files you wish to download using the path to the csv and the column you want to search by.
 
 ```
 browse_and_select_rows_binder(csv_path, column_name)
