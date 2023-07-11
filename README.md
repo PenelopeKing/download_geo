@@ -1,15 +1,26 @@
 # download_geo
 
-Tool to download data from Gene Expression Omnibus (GEO). It can download FASTQ files and supplementary files (peaks, txt, etc).
+Tool to download data from Gene Expression Omnibus (GEO). 
+
+Using just the GSE code (GSE#), you are able to download FASTQ files and supplementary files (peaks, txt, etc).
+
+You can use this on Binder: https://mybinder.org/v2/gh/PenelopeKing/download_geo/main?labpath=download_geo_binder.ipynb
+
+
+### How to Use:
+
 Step 1:
-Download a CSV containing GSE code's metadata.
-get_descriptions("GSEcode" , "/output/directory/")
+
+    Get GSE code number.
 
 Step 2:
-Browse and select the files you wish to download.
-browse_and_select_rows("path/to/csv" , "column_name_searching_by")
+
+    Download a CSV containing GSE's metadata.
+
+Step 2:
+
+    Browse and select the files you wish to download.
 
 
-https://mybinder.org/v2/gh/PenelopeKing/download_geo/main?labpath=download_geo_binder.ipynb
-(WIP)
+
 
