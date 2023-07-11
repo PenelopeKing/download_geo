@@ -10,6 +10,6 @@ Browse and select the files you wish to download.
 browse_and_select_rows("path/to/csv" , "column_name_searching_by")
 
 
-https://mybinder.org/v2/gh/PenelopeKing/download_geo/main?labpath=get_geo.ipynb 
+https://mybinder.org/v2/gh/PenelopeKing/download_geo/main?labpath=download_geo_binder.ipynb
 (WIP)
 
