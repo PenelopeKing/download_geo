@@ -2,7 +2,7 @@ pandas
 numpy
 traitlets
 geofetch
-pysradb.sraweb
+pysradb
 sra-tools
 urllib.request
 IPython
