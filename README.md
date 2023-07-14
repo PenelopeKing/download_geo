@@ -8,7 +8,7 @@ You can use this tool on Binder: [https://mybinder.org/v2/gh/PenelopeKing/downlo
 
 
 
-## How to Use `download_geo_binder.ipynb` on Binder
+## How to Use `binder.ipynb` on Binder
 
 ##### Step 1:
 Get GSE accession number via [GEO](https://www.ncbi.nlm.nih.gov/geo/).
