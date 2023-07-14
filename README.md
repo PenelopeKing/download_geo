@@ -1,4 +1,4 @@
-# download_geo
+# geo_downloader
 
 Tool to download data from Gene Expression Omnibus (GEO). 
 
