@@ -8,9 +8,8 @@ from IPython.display import display
 from ipywidgets import interact, Dropdown, Button, Text
 import traitlets
 from traitlets import dlink
-import downloader
 
-from downloader import *
+from geo_downloader.downloader import *
 
 def set_up():
     pd.set_option('display.max_rows', None)
