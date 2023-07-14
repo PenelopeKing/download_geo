@@ -1,6 +1,6 @@
 # geo_downloader
 
-Tool to download data from Gene Expression Omnibus [(GEO)](https://www.ncbi.nlm.nih.gov/geo/). 
+Tool to download data from Gene Expression Omnibus ([GEO](https://www.ncbi.nlm.nih.gov/geo/)). 
 
 Using a series (GSE) accession number (GSE#), you are able to download its corresponding FASTQ files (SRA) and supplementary files (peaks, txt, etc).
 
